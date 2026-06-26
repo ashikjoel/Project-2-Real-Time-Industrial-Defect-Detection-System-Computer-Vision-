@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+onnxruntime
+python-multipart
+prometheus-client
+pymodbus

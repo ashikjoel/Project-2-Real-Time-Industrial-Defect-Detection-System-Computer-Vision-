@@ -1,0 +1,15 @@
+ #to activate environment
+
+ venv\Scripts\activate
+
+#to check web cam
+
+  python app.py
+  
+#for fastAPI
+
+  uvicorn main:app --reload
+
+#Run using Docker (Deployment)
+
+  docker run --rm -p 8000:8000 industrial-defect-detector
